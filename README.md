@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Security Analyst | Python | Linux | Wireshark
+Cybersecurity | Python | Linux | Wireshark
 
 - 🔭 I’m currently working on developing an Inventory Management System
 - 🌱 I’m currently learning Linux
