@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Engineer | Python | Replit | VS Code
+Security Analyst | Python | Linux | Wireshark
 
 - 🔭 I’m currently working on developing a Budget App
 - 🌱 I’m currently learning Data Structures with Python
