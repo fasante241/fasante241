@@ -1,6 +1,9 @@
-### Hi, I'm Felix 👋
+### Hi, I'm Felix !
 
-Cybersecurity Analyst | Python | Linux | Wireshark
+Cybersecurity Professional | Python | Linux | Wireshark
+
+**Certifications**
+
 
 - 🔭 I’m currently working on developing an Inventory Management System
 - 🌱 I’m currently learning Linux
