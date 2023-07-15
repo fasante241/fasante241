@@ -2,7 +2,6 @@
 
 Cybersecurity Professional | Python | Linux | Wireshark
 
-**Certifications**
 
 
 - 🔭 I’m currently working on developing an Inventory Management System
