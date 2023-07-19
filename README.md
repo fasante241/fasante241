@@ -1,6 +1,5 @@
-<h1>Hi, I'm Felix ! <br/>
-
-<b> Cybersecurity Professional   |   Python   |   Linux   |   Wireshark <b>
+## Hi, I'm Felix ! 
+Cybersecurity Professional   |   Python   |   Linux   |   Wireshark
 
 
 <h2> Certifications </h2>
@@ -20,7 +19,7 @@
 
 👯 Seeking a challenging position in the Cybersecurity field to fully utilize my skills to safeguard data, systems and people.
 
-📫 How to reach me: @asante241@yahoo.com
+📫 How to reach me: _asante241@yahoo.com_
 
 ⚡ Fun fact: I love Soccer !
 -->
